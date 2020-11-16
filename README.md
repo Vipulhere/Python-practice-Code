@@ -1,296 +1,53 @@
 # Python-practice-Code
-Here is the topic on which I builded my code.
 
-Getting Start With Python
+# Visit Youtube Channel for practice.
+# ***************************************************************************
+SUBSCRIBE- https://www.youtube.com/c/learncomputing
 
-Introduction
+HTML- https://www.youtube.com/playlist?list=PLopGJA8hA2v3RxpTO45GQqp5kavqazaX1
 
-Python3 Vs Python2
+Python playlist- https://www.youtube.com/playlist?list=PLopGJA8hA2v1WwCMBRh4TCRFvUEC8JySh
 
-how this Course is Structured
+Kali Linux Playlist- https://www.youtube.com/playlist?list=PLopGJA8hA2v3hup_F-OwaoSZydRlnT-MB
 
-How to Install Python On windows
+Learn in One video-https://www.youtube.com/watch?v=qTScEZfuYz0&list=PLopGJA8hA2v1D0BCY0P_lC60XXkQOYlFd
 
-How to install Python on Linux
+Web Basics- https://www.youtube.com/playlist?list=PLopGJA8hA2v2lP1t6AE6pOYD3rror0768
+# ******************************************************************************
 
-How to install Python On Mac
+# BLOG
+spyfellow.blogspot.com
 
-Run a Basic Syntax with Complete Understanding on Print Function
+# How code has Designed.
+# Module 1
+1. Getting Start With Python
 
-Coding Exercise 1
+# Module 2
+2. Hands on Operators and other Key Concepts
 
-Coding Exercise 2
+# Module 3
+3. Order  Order (Decision Making and Loops in Python)
 
-Variables & multiple assignment of variable - Don't Miss this Concept
+# Module 4
+4. Functions in Python
 
-Coding Exercise 3
+# Moddule 5
+5. String Indexing and Slicing And String
 
-Variable Declaration
+# Module 6
+6. Collections in Python
 
-Reassigning Variables
+# Module 7
+7. Exceptions in Python
 
-Swap variables
+# Module 8
+8. Object Oriented Programming In Python
 
-Coding Exercise 4
+# Module 9
+9. The Python Knowledge you need To know
 
-Scope Variable (Local and global variables in Python)
+# Module 10
+10. SQLite Database Programming In Python
 
-Assignment No 1
-
-Quiz No 1
-
-What is Difference Between a program and a Script
-
-The Assert Statement
-
-Strings you need to Grab complete concept
-
-Data Types In Python Major Concept
-
-What is Len Function in String
-
-Assignment no 2
-
-Hands on Operators and other Key Concepts
-
-Operators ( Arithmetic Operator in Python)
-
-Operators (Assingment Operator in Python)
-
-Write the Equation to Calculate an Average in one line with Operator
-
-Assignment No 3
-
-Using of Assignments operator and Shorthand
-
-Comparison Operators
-
-Equal/Not Equals Operators
-
-Logical Operators in Python
-
-IS and ISNOT in Python
-
-Inverting boolean in python
-
-Bitwise Operators
-
-Assignment No 4
-
-Order! Order! (Decision Making and Loops in Python)
-
-If Statements in Python
-
-Else Statements in Python
-
-Elif Statements in Python
-
-Nested If Else Statement
-
-For loop in python
-
-While loop in python
-
-Break,Continue and Pass Statement
-
-Nested Loop
-
-Loops With Else block of Code
-
-Fibonacci Series in Python
-
-Functions in Python
-
-What is Function and How to Define a function
-
-Calling a function
-
-Function arguments and Return Vs Print
-
-Nested Functions
-
-What is Module
-
-String Indexing and Slicing And String
-
-Regular Indexes
-
-Negative Indexes
-
-Slices
-
-Remove the Character of index value
-
-Append In Python
-
-String Format Method
-
-String Indexing and Slicing
-
-neutralize_uppercase
-
-Max character
-
-Taking a User Input
-
-Coding Exercise
-
-Coding Exercise
-
-Collections in Python
-
-Introduction to Python Lists
-
-Change List Item Value
-
-Mutable List
-
-How to write list Literally vs Programmatically
-
-Check if Item exists in list
-
-Introduction to the Tuples
-
-Access Tuple Item
-
-Delete Tuple
-
-Iterating Lists
-
-Indexing and Slicing on Tuples
-
-Using list as a Stack
-
-Using List as a Queue
-
-Growing Lists (Shuffle List & Concatenation )
-
-Introduction to Dictionaries
-
-Updating a Dictionary
-
-Concatenate two Dictionaries
-
-Sort a Dictionary
-
-Delete Dictionary Elements
-
-Length of a Dictionary
-
-Key exists in Dictionary
-
-Introduction to Sets
-
-Convert dictionary into list
-
-Using Pop Method delete Item From dictionary
-
-Tree in Python
-
-Nested Loop Using List
-
-Exceptions in Python
-
-Introduction to Exceptions
-
-Handling Exceptions
-
-Raising Exceptions
-
-Try Except and Finally
-
-Breaking Math operation and use ZeroDivisionError
-
-Object Oriented Programming In Python
-
-Introduction To OOP and Key of OOP
-
-Classes and Objects
-
-Python Constructor
-
-Initializing the Object
-
-Run a Simple Empty Class Example
-
-instance method with classes and object
-
-Object Methods
-
-Self Parameter
-
-Delete Object and Property
-
-Accessing Class Attributes from instances
-
-Inheritance
-
-Multiple Child Classes Inheritance
-
-Multilevel Inheritance
-
-Multiple Inheritance
-
-Method Overriding
-
-Encapsulation
-
-Polymorphism
-
-Data Abstraction
-
-Setters and Getters
-
-Super Keyword
-
-The Python Knowledge you need To know
-
-Lambda Function
-
-Dictionary Comprehension
-
-Map
-
-Filter
-
-Reduce
-
-SQLite Database Programming In Python
-
-Creating a Database and Database Connection
-
-Python Database Create Table
-
-Python Database Insert Operation
-
-Python Database READ Operation
-
-Python Database Update Operation
-
-Python Database DELETE Operation
-
-Python Database Limit
-
-No-SQL database Programming MongoDb
-
-Install Mongodb
-
-Overview on Creating Database in CMD
-
-Mongodb Connection to python
-
-Mongodb Create Collection
-
-Mongodb Insert Document
-
-Mongodb Find Operation
-
-Mongodb Query
-
-Mongodb Update Operation
-
-Mongodb Delete Operation
-
-Mongodb limit Operation
-
-Mongodb Drop The Collection
+# Module 11
+11. No-SQL database Programming MongoDb
