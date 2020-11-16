@@ -16,7 +16,7 @@ Web Basics- https://www.youtube.com/playlist?list=PLopGJA8hA2v2lP1t6AE6pOYD3rror
 # ******************************************************************************
 
 # BLOG
-spyfellow.blogspot.com
+https://spyfellow.blogspot.com
 
 # How code has Designed.
 # Module 1
